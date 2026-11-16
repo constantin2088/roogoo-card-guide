@@ -35,10 +35,6 @@ Roogoo 官方开卡指南把 AI 订阅列为使用场景。具体能否支付 Ch
 ## 官方资料
 
 - [Roogoo 卡片介绍](https://help.roogoo.com/zh-CN/articles/12265376)
-- [Roogoo Card 开卡流程](https://help.roogoo.com/zh-CN/articles/11761257)
 - [首张卡 7 天试用与终身 0 费率权益](https://help.roogoo.com/en/articles/11958316-card-lifetime-zero-fee-benefits-first-card-7-day-0-fee-trial)
-- [OpenAI 付款卡被拒的官方说明](https://help.openai.com/en/articles/7232916-why-was-my-credit-card-declined)
 
 [注册 Roogoo](https://wap.roogoo.money/register?inviteCode=1yxu41)
-
-资料整理于 2026 年 11 月 16 日。欢迎通过 Issues 补充费率变化或支付体验，提交时请遮盖卡号、账单地址及个人信息。

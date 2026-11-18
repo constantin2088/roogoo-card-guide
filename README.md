@@ -1,7 +1,7 @@
 <h1 align="center">Roogoo Card 中文指南</h1>
 
 <p align="center"><strong>稳定币充值 · 虚拟卡付款 · 开卡前看懂费率</strong></p>
-<p align="center"><a href="https://wap.roogoo.money/register?inviteCode=1yxu41">注册 Roogoo</a></p>
+<h2 align="center"><a href="https://wap.roogoo.money/register?inviteCode=1yxu41">注册 Roogoo →</a></h2>
 
 > **开卡权益**　注册时可查看免费开卡活动。符合条件的首张卡可享 **7 天 0 费率试用**，也可按平台规则升级**卡片终身 0 费率权益**。请在申请前核对注册页面和卡片详情所示的资格、费用及生效范围。
 

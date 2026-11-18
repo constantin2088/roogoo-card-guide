@@ -41,3 +41,5 @@ Roogoo 将 AI 订阅列为用卡场景。付款时，以 ChatGPT 结算页的地
 - [Roogoo 卡片介绍](https://help.roogoo.com/zh-CN/articles/12265376)
 - [首张卡 7 天试用与终身 0 费率权益](https://help.roogoo.com/en/articles/11958316-card-lifetime-zero-fee-benefits-first-card-7-day-0-fee-trial)
 - [官方帮助中心](https://help.roogoo.com/zh-CN/)
+
+[注册 Roogoo →](https://wap.roogoo.money/register?inviteCode=1yxu41)

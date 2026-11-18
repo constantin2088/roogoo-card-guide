@@ -1,7 +1,7 @@
 <h1 align="center">Roogoo Card 中文指南</h1>
 
 <p align="center"><strong>稳定币充值 · 虚拟卡付款 · 开卡前看懂费率</strong></p>
-<p align="center"><a href="https://help.roogoo.com/zh-CN/">官方帮助中心</a></p>
+<p align="center"><a href="https://wap.roogoo.money/register?inviteCode=1yxu41">注册 Roogoo</a></p>
 
 > **开卡权益**　注册时可查看免费开卡活动。符合条件的首张卡可享 **7 天 0 费率试用**，也可按平台规则升级**卡片终身 0 费率权益**。请在申请前核对注册页面和卡片详情所示的资格、费用及生效范围。
 
@@ -19,7 +19,7 @@ Roogoo 提供可用稳定币充值的预付卡，有虚拟卡和实体卡。 对
 
 ## 注册、开卡、付款
 
-1. 打开文末的注册入口，按页面提示完成注册。
+1. 打开页面顶部的注册入口，按页面提示完成注册。
 2. 进入卡片页面，查看可申请卡型、身份验证要求以及实际开卡费用。
 3. 根据官方充值页面选择币种和网络，核对收款地址与最低充值金额，首次可在允许的范围内先做小额验证。
 4. 在商户官方结算页自行填卡。订阅类服务还要确认下个月能否自动扣款，并留出覆盖税费或汇率变动的余额。
@@ -36,5 +36,4 @@ Roogoo 官方开卡指南把 AI 订阅列为使用场景。具体能否支付 Ch
 
 - [Roogoo 卡片介绍](https://help.roogoo.com/zh-CN/articles/12265376)
 - [首张卡 7 天试用与终身 0 费率权益](https://help.roogoo.com/en/articles/11958316-card-lifetime-zero-fee-benefits-first-card-7-day-0-fee-trial)
-
-[注册 Roogoo](https://wap.roogoo.money/register?inviteCode=1yxu41)
+- [官方帮助中心](https://help.roogoo.com/zh-CN/)

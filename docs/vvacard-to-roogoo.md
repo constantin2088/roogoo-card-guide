@@ -16,10 +16,10 @@
 
 注册后，我看到身份验证可以选身份证或护照，我这次几分钟就完成了验证。开好自己的虚拟卡、把余额转进去后，我在 ChatGPT 的结算页填卡，Plus 订阅顺利扣款，整个过程没有遇到问题。
 
-**如果你也为了订阅 AI 服务开卡，先看清卡型。** 例如 Roogoo 的 Infinity II 卡详情明确写着不支持 AI 订阅，卡片有效期为三年。[查看 Infinity II 卡说明](https://help.roogoo.com/zh-CN/articles/15858866)
+如果你也想订阅 ChatGPT Plus 等 AI 服务，可以开通 Roogoo 的美国虚拟卡，官方推荐**精英卡**或**乐享卡**。[查看官方 AI 订阅指南](https://help.roogoo.com/zh-CN/articles/15644377)
 
-## 需要实体卡的话，先看办理条件
+## 怎么申请实体卡？
 
-实体卡可以单独申请。以官方公布的 Infinity 实体卡方案为例，其中一种免激活费的方式要求质押价值 200 美元的 ROOG 三年，另外还要首充 100 美元并支付运费。申请前值得看清页面里的“充值”和“质押”两个条件，尤其是资金要锁多久。[查看实体卡申请说明](https://help.roogoo.com/zh-CN/articles/12638076)
+如果你平时也想用实体卡消费，可以单独申请。[查看实体卡申请说明](https://help.roogoo.com/zh-CN/articles/12638076)
 
 [返回 Roogoo 中文指南与注册入口](../README.md)

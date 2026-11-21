@@ -1,4 +1,4 @@
-<h1 align="center">Roogoo Card 中文指南</h1>
+<h1 align="center">Roogoo 虚拟卡中文指南｜开卡费用与 ChatGPT Plus 订阅实测</h1>
 
 <p align="center"><strong>日常海淘、软件会员、AI 订阅，一张卡自己付</strong></p>
 <h2 align="center"><a href="https://wap.roogoo.money/register?inviteCode=1yxu41">注册 Roogoo →</a></h2>
@@ -10,6 +10,8 @@
 我自己用 Roogoo 付过日常消费和多种线上订阅，两类场景都成功付款。对习惯中文操作的人来说，从注册、开卡到查账单，跟着中文页面走就行。
 
 Roogoo 提供可用稳定币充值的境外预付卡，有虚拟卡和实体卡。平时买东西、开软件会员或订阅 AI 工具，可以到商户的结算页自己填卡，账号和密码留在自己手里。
+
+**[从 VVACard 换到 Roogoo：我的费用对比与 ChatGPT Plus 扣款体验](docs/vvacard-to-roogoo.md)**
 
 ## 开卡后有哪些权益？
 
@@ -31,7 +33,7 @@ Roogoo 提供可用稳定币充值的境外预付卡，有虚拟卡和实体卡�
 ## 常见问题
 
 **可以用来订阅 ChatGPT Plus 吗？**  
-Roogoo 将 AI 订阅列为用卡场景。付款时，以 ChatGPT 结算页的地区要求和实际受理结果为准。
+我用自己的 Roogoo 虚拟卡订阅 ChatGPT Plus，顺利完成了扣款。选卡时请看具体卡型，Roogoo 的 Infinity II 卡不支持 AI 订阅。
 
 **免费开卡和 0 费率怎么理解？**  
 免费开卡对应开卡费。7 天试用和终身 0 费率各有适用范围，充值、跨境结算和币种转换等费用可在卡片详情里查到。
